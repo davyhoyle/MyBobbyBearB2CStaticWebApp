@@ -1,0 +1,2 @@
+# MyBobbyBearB2CStaticWebApp
+MyBobbyBearB2CStaticWebApp
